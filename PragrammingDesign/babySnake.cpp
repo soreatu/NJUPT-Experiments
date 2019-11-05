@@ -8,7 +8,7 @@
 #include <iomanip>
 #include <vector>
 #include <windows.h>
-#include "snake.h"
+#include "babySnake.h"
 
 using namespace std;
 
@@ -353,7 +353,7 @@ void Logic() // 运行主逻辑
         Sleep(100);
 }
 
-void HandleKbhit() // 根据键入改变方向
+void HandleKbhit() // 根据键入改变方向、速度
 {
     while(_kbhit()) // 键盘上按下某一个键
     {
@@ -576,7 +576,7 @@ void Exit() // 退出游戏
     exit(0);
 }
 
-void Gotoxy(int i,int j) //定位到第y行的第x列
+void Gotoxy(int i,int j) // 定位到第y行的第x列
 {
     int xx=0x0b;
     HANDLE hOutput;
