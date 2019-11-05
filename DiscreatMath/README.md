@@ -8,7 +8,7 @@
 ### 实现效果
 能够（只能）实现3个变量、5种联结词以及带括号的表达式的解析，求真值表、主析取范式和主合取范式。
 
-![image-20191105111628432](README.assets/t011fb0daf95bd5fc44.png)
+![image-20191105111628432](https://ps.ssl.qhmsg.com/t011fb0daf95bd5fc44.png)
 
 
 
@@ -25,10 +25,10 @@
 
 **反对称**的二元关系R相应的关系矩阵也是反对称的(这里定义1的反为0)；
 
-对**传递**的二元关系R，相应的关系矩阵R中若![img](README.assets/clip_image002.png)=1,![img](file:///C:/Users/sorea/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)=1，则![img](file:///C:/Users/sorea/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png)=1。
+对**传递**的二元关系R，相应的关系矩阵R中若$r_{ij}=1$,$r_{jk}=1$，则$r_{ik}=1$。
 
 可以利用Python里的`numpy`库以及`lambda函数式`轻松地解决关系性质的判定。
 
 ### 实现效果
 
-![](README.assets/t01e45f49fd157fc1a4.png)
+![](https://ps.ssl.qhmsg.com/t01e45f49fd157fc1a4.png)
