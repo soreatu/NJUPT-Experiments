@@ -5,9 +5,10 @@ from random import randint, choice
 
 
 def gen(n):
-    mtx = np.matrix( [[randint(0, 1) for _ in range(n)] for _ in range(n)], dtype='bool' )
-    for i in range(n):
-        mtx[i, i] = 0 # Diagonal
+    mtx = np.zeros( shape=(n,n), dtype='bool' )
+    for i in range(n-1):
+        for j in range(i+1, n):
+            mtx[i, j] = mtx[j, i] = randint(0,1)
     return mtx
 
 def isConnected(mtx, n):
@@ -22,7 +23,7 @@ def count(mtx, n):
     """
     return [mtx[i].sum() for i in range(n)]
 
-def constructTrace(mtx, n, odd):
+def constructTrace(mtx, n, odd): # There exists some bug in this algorithm!
     cnt = count(mtx, n)
     if odd:
         start, end = 0, n-1 # The nodes to start and end to.
