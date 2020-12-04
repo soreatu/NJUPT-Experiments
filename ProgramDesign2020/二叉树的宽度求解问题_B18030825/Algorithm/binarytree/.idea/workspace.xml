@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3fd8313-26f8-43dd-aa2a-f2c4f22cf01a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.15.3/libexec" />
+  <component name="ProjectId" id="1jioQp3P9I6i4NMnc2DakAQcder" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build binarytree.go">
+    <configuration name="go build binarytree.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="binarytree" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/binarytree.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestBinaryTree in binarytree_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="binarytree" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/binarytree_test.go" />
+      <pattern value="^\QTestBinaryTree\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test binarytree" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="binarytree" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/binarytree_test.go" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build binarytree.go" />
+      <item itemvalue="Go Test.go test binarytree" />
+      <item itemvalue="Go Test.TestBinaryTree in binarytree_test.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build binarytree.go" />
+        <item itemvalue="Go Test.TestBinaryTree in binarytree_test.go" />
+        <item itemvalue="Go Test.go test binarytree" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3fd8313-26f8-43dd-aa2a-f2c4f22cf01a" name="Default Changelist" comment="" />
+      <created>1604296259307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604296259307</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="481" y="278" width="1094" height="838" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604300735875">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="481" y="278" width="1094" height="838" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1280@0.0.2048.1280" timestamp="1604300735875" />
+    <state width="1980" height="426" key="GridCell.Tab.0.bottom" timestamp="1604316945239">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1980" height="426" key="GridCell.Tab.0.bottom/0.0.2048.1280@0.0.2048.1280" timestamp="1604316945239" />
+    <state width="1980" height="426" key="GridCell.Tab.0.center" timestamp="1604316945238">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1980" height="426" key="GridCell.Tab.0.center/0.0.2048.1280@0.0.2048.1280" timestamp="1604316945238" />
+    <state width="1980" height="426" key="GridCell.Tab.0.left" timestamp="1604316945237">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1980" height="426" key="GridCell.Tab.0.left/0.0.2048.1280@0.0.2048.1280" timestamp="1604316945237" />
+    <state width="1980" height="426" key="GridCell.Tab.0.right" timestamp="1604316945238">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1980" height="426" key="GridCell.Tab.0.right/0.0.2048.1280@0.0.2048.1280" timestamp="1604316945238" />
+    <state width="1980" height="426" key="GridCell.Tab.1.bottom" timestamp="1604316945240">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1980" height="426" key="GridCell.Tab.1.bottom/0.0.2048.1280@0.0.2048.1280" timestamp="1604316945240" />
+    <state width="1980" height="426" key="GridCell.Tab.1.center" timestamp="1604316945240">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1980" height="426" key="GridCell.Tab.1.center/0.0.2048.1280@0.0.2048.1280" timestamp="1604316945240" />
+    <state width="1980" height="426" key="GridCell.Tab.1.left" timestamp="1604316945239">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1980" height="426" key="GridCell.Tab.1.left/0.0.2048.1280@0.0.2048.1280" timestamp="1604316945239" />
+    <state width="1980" height="426" key="GridCell.Tab.1.right" timestamp="1604316945240">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1980" height="426" key="GridCell.Tab.1.right/0.0.2048.1280@0.0.2048.1280" timestamp="1604316945240" />
+    <state x="328" y="104" key="SettingsEditor" timestamp="1604300473712">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="328" y="104" key="SettingsEditor/0.0.2048.1280@0.0.2048.1280" timestamp="1604300473712" />
+    <state x="583" y="265" width="882" height="750" key="find.popup" timestamp="1604303565095">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="583" y="265" width="882" height="750" key="find.popup/0.0.2048.1280@0.0.2048.1280" timestamp="1604303565095" />
+  </component>
+</project>

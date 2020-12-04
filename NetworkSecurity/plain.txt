@@ -1,0 +1,1 @@
+Simple file encryption is probably better done using a tool like GPG. Still, you may have occasion to want to encrypt a file without having to build or use a key/certificate structure. All you want to have to remember is a password. It can nearly be that simple—if you can also remember the cipher you employed for encryption.

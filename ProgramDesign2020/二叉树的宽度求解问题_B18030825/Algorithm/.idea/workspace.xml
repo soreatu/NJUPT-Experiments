@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc61dd67-3a26-41e4-92ee-e92d258cacf1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.15.3/libexec" />
+  <component name="ProjectId" id="1jim8iwfp8KE0AJRMAid3vgdodj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestBinaryTree in binarytree_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="tree" />
+      <working_directory value="$PROJECT_DIR$/binarytree" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/binarytree/binarytree_test.go" />
+      <pattern value="^\QTestBinaryTree\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestBinaryTree in binarytree_test.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc61dd67-3a26-41e4-92ee-e92d258cacf1" name="Default Changelist" comment="" />
+      <created>1604295129816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604295129816</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="481" y="278" width="1094" height="804" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604300654602">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="481" y="278" width="1094" height="804" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1280@0.0.2048.1280" timestamp="1604300654602" />
+    <state width="1980" height="344" key="GridCell.Tab.0.bottom" timestamp="1604300656007">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1980" height="344" key="GridCell.Tab.0.bottom/0.0.2048.1280@0.0.2048.1280" timestamp="1604300656007" />
+    <state width="1980" height="344" key="GridCell.Tab.0.center" timestamp="1604300656006">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1980" height="344" key="GridCell.Tab.0.center/0.0.2048.1280@0.0.2048.1280" timestamp="1604300656006" />
+    <state width="1980" height="344" key="GridCell.Tab.0.left" timestamp="1604300656006">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1980" height="344" key="GridCell.Tab.0.left/0.0.2048.1280@0.0.2048.1280" timestamp="1604300656006" />
+    <state width="1980" height="344" key="GridCell.Tab.0.right" timestamp="1604300656007">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1980" height="344" key="GridCell.Tab.0.right/0.0.2048.1280@0.0.2048.1280" timestamp="1604300656007" />
+  </component>
+</project>
